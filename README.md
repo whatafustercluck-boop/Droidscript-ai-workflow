@@ -80,11 +80,15 @@ Every chapter and subchapter is marked with clear, visually distinct headers tha
 
 
 //==========================================
+
 // CHAPTER 5 — SIMULATION
+
 //==========================================
 
 //-----------------------------------------
+
 // 5.1 — Player ↔ Wall Collision
+
 //-----------------------------------------
 
 The exact numbering is less important than clarity and consistency.
