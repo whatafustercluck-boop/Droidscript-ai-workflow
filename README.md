@@ -79,11 +79,11 @@ This reduces accidental breakage, enables safe iteration, and allows fast rollba
 Every chapter and subchapter is marked with clear, visually distinct headers that act as anchors for both humans and AI.
 
 
-//===================================
+//===============================
 
 // CHAPTER 5 — SIMULATION
 
-//===================================
+//===============================
 
 //------------------------------------
 
