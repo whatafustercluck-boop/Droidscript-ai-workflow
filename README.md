@@ -1,3 +1,8 @@
+> **Author:** Daniel Tofflemire  
+> **License:** MIT (free to use, modify, and share with attribution)  
+> **Purpose:** Help people build real DroidScript apps on a phone using a structured, AI-assisted workflow.  
+> **Contributions:** Ideas, improvements, and examples are welcome.
+
 DroidScript AI Workflow
 
 This repository documents a human-directed, AI-assisted workflow for building mobile apps and games in DroidScript, designed to be used entirely from a phone.
